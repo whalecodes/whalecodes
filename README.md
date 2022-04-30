@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Java developer who specializes in developing Bukkit plugins for Minecraft servers.
+
 <!--
 **devcaramel/devcaramel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
