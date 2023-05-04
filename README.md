@@ -1,8 +1,8 @@
 ### Hey there 👋
 
 I'm a Java developer experienced in working with Minecraft server & the Bukkit API.
-I started learning Java around 1.5 years ago, and have worked on commissioned projects for a little over a year now. 
-My past experience includes working on small plugins, populated network servers, and large YouTuber videos.
+I started learning Java around 2 years ago, and have worked on commissioned projects for a little over a year now. 
+My past experience includes working on small plugins, popular network servers, and large YouTuber videos.
 
 <!--
 **devcaramel/devcaramel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
